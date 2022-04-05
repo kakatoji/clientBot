@@ -8,3 +8,9 @@
 ## sc untuk auto chat all group
 * melakukan reply pesan di group
 * membalas chat privat
+
+### penggunaan
+* python bot.py +6285246104499
+```
+python bot.py your_phone_and_code_country
+```
